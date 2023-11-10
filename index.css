@@ -1,0 +1,9 @@
+*{
+    outline: 1px solid red;
+}
+.main-header{
+    background-image: url(./images/header-back.jpg);
+    width: 1440px;
+    height: 1024px;
+    color:#fff;
+}
