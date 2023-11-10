@@ -1,9 +1,25 @@
-*{
-    outline: 1px solid red;
-}
+body{
+    color:#fff;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #070612;
+    }
+
 .main-header{
     background-image: url(./images/header-back.jpg);
     width: 1440px;
     height: 1024px;
     color:#fff;
+    margin: 0 auto;
+    padding: 0;
+}
+.category{
+    background-color: #070612;
+    width:1440px;
+    height: 800px;
+}
+.category-description{
+    background-image: url(./images/femida.jpg);
+    width: 1360px;
+    height: 800px;
 }
